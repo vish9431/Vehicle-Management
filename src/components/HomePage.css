@@ -1,0 +1,81 @@
+.homepage-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .button-container {
+    margin: 20px 0;
+  }
+  
+  .button-container button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .button-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  .datetime-input-container {
+    margin: 20px 0;
+  }
+  
+  .datetime-input-container label {
+    margin: 0 10px;
+    font-weight: bold;
+  }
+  
+  .datetime-input-container input {
+    margin: 0 10px;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  .datetime-input-container button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #28a745;
+    color: white;
+  }
+  
+  .datetime-input-container button:hover {
+    background-color: #218838;
+  }
+  
+  .table-container {
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  .gate-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  .gate-table th, .gate-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .gate-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #f2f2f2;
+    color: black;
+  }
+  
+  .gate-table td {
+    text-align: center;
+  }
+  
